@@ -1,0 +1,1030 @@
+1649621577980	geckodriver	INFO	Listening on 127.0.0.1:51913
+1649621578322	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51914" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileLNgH8g"
+1649621579018	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileLNgH8g/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:51914/devtools/browser/8dc8d5b8-34c7-4338-a6f2-d86045b006cf
+1649621580145	Marionette	INFO	Listening on port 51919
+1649621580242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 19555, MediaDecoderStateMachine #1] WARNING: 1198354e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5802 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649621587517	Marionette	INFO	Stopped listening on port 51919
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649621588806	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1649621689708	geckodriver	INFO	Listening on 127.0.0.1:52034
+1649621690232	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "52035" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilex9wR9o"
+*** You are running in headless mode.
+1649621690523	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilex9wR9o/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:52035/devtools/browser/3fa0dfd3-852b-4c97-8d9e-044f42e4c6a2
+1649621691149	Marionette	INFO	Listening on port 52040
+1649621691171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 19600, MediaDecoderStateMachine #1] WARNING: 112413310 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5985 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649621699494	Marionette	INFO	Stopped listening on port 52040
+1649621721731	geckodriver	INFO	Listening on 127.0.0.1:52147
+1649621721737	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "52148" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilepfhWB0"
+*** You are running in headless mode.
+1649621721929	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilepfhWB0/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:52148/devtools/browser/712d4627-3b6a-4136-8890-1f5a33afd45d
+1649621722497	Marionette	INFO	Listening on port 52151
+1649621722572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 19618, MediaDecoderStateMachine #1] WARNING: 11a224510 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6918 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 19618, MediaDecoderStateMachine #1] WARNING: 10fb89d80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 19618, MediaDecoderStateMachine #1] WARNING: 10fb89d80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649621760714	Marionette	INFO	Stopped listening on port 52151
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649622156790	geckodriver	INFO	Listening on 127.0.0.1:53508
+1649622157312	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53509" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileRgzXdc"
+*** You are running in headless mode.
+1649622157611	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileRgzXdc/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53509/devtools/browser/018c6cd1-9cd0-4c0e-8b4f-5bcd63c6d531
+1649622158351	Marionette	INFO	Listening on port 53520
+1649622158369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 19716, MediaDecoderStateMachine #1] WARNING: 11ae91090 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6931 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 19716, MediaDecoderStateMachine #1] WARNING: 10e24c3a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 19716, MediaDecoderStateMachine #1] WARNING: 10e24c3a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1649622231054	geckodriver	INFO	Listening on 127.0.0.1:53924
+1649622231574	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53925" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileb8DNZK"
+*** You are running in headless mode.
+1649622231837	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileb8DNZK/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53925/devtools/browser/9839697e-a515-4c62-8752-3b908f432bbf
+1649622232423	Marionette	INFO	Listening on port 53934
+1649622232527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 19756, MediaDecoderStateMachine #1] WARNING: 10f3935f0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6240 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 19756, MediaDecoderStateMachine #1] WARNING: 10f32cad0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 19756, MediaDecoderStateMachine #1] WARNING: 10f32cad0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1649622443496	geckodriver	INFO	Listening on 127.0.0.1:54897
+1649622444018	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54898" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileNt20tf"
+*** You are running in headless mode.
+1649622444296	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileNt20tf/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54898/devtools/browser/b867a0e6-8b0c-46dc-bb47-a7237a72c2d5
+1649622444900	Marionette	INFO	Listening on port 54903
+1649622444973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 516 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 19843, MediaDecoderStateMachine #1] WARNING: 111fd2900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 19843, MediaDecoderStateMachine #1] WARNING: 111fd2620 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 19843, MediaDecoderStateMachine #1] WARNING: 111fd2620 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649622498465	Marionette	INFO	Stopped listening on port 54903
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649622597257	geckodriver	INFO	Listening on 127.0.0.1:55615
+1649622597782	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55616" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilekS8hyl"
+*** You are running in headless mode.
+1649622598054	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilekS8hyl/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:55616/devtools/browser/f1e84b80-3b73-42a0-a3b1-1fd76406b3ec
+1649622598746	Marionette	INFO	Listening on port 55621
+1649622598835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5340 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 19976, MediaDecoderStateMachine #1] WARNING: 11b5f14e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 19976, MediaDecoderStateMachine #1] WARNING: 10ed28ad0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 19976, MediaDecoderStateMachine #1] WARNING: 10ed28ad0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 19976, MediaDecoderStateMachine #1] WARNING: 10ed28ad0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649622636682	Marionette	INFO	Stopped listening on port 55621
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649622770077	geckodriver	INFO	Listening on 127.0.0.1:56427
+1649622770594	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56428" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileOjAQTm"
+*** You are running in headless mode.
+1649622770855	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileOjAQTm/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56428/devtools/browser/c0b9e79b-46d0-4874-89c7-002a3eac29f2
+1649622771547	Marionette	INFO	Listening on port 56438
+1649622771645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 20025, MediaDecoderStateMachine #1] WARNING: 10f353760 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 874 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 20025, MediaDecoderStateMachine #1] WARNING: 10f352d50 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20025, MediaDecoderStateMachine #1] WARNING: 10f352d50 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20025, MediaDecoderStateMachine #1] WARNING: 10f352d50 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20025, MediaDecoderStateMachine #1] WARNING: 10f352d50 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649622814835	Marionette	INFO	Stopped listening on port 56438
+1649623082493	geckodriver	INFO	Listening on 127.0.0.1:57831
+1649623083012	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "57832" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileKGxRXy"
+*** You are running in headless mode.
+1649623083271	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileKGxRXy/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57832/devtools/browser/a1d2dcec-6d5b-4a7f-b722-57c54245294f
+1649623083890	Marionette	INFO	Listening on port 57842
+1649623083960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 20079, MediaDecoderStateMachine #1] WARNING: 1137e6be0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2460 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 20079, MediaDecoderStateMachine #1] WARNING: 104bd3480 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20079, MediaDecoderStateMachine #1] WARNING: 104bd3480 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20079, MediaDecoderStateMachine #1] WARNING: 104bd3480 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20079, MediaDecoderStateMachine #1] WARNING: 104bd3480 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649623125745	Marionette	INFO	Stopped listening on port 57842
+1649623472586	geckodriver	INFO	Listening on 127.0.0.1:59771
+1649623473110	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "59772" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofile2RaPXF"
+*** You are running in headless mode.
+1649623473371	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofile2RaPXF/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59772/devtools/browser/f69e289b-f754-41ef-a28c-28197cab9380
+1649623473962	Marionette	INFO	Listening on port 59781
+1649623474058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 20196, MediaDecoderStateMachine #1] WARNING: 11003c680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7509 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 20196, MediaDecoderStateMachine #1] WARNING: 10e180230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20196, MediaDecoderStateMachine #1] WARNING: 10e180230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20196, MediaDecoderStateMachine #1] WARNING: 10e180230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20196, MediaDecoderStateMachine #1] WARNING: 10e180230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649623511565	Marionette	INFO	Stopped listening on port 59781
+1649623810079	geckodriver	INFO	Listening on 127.0.0.1:61388
+1649623810592	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "61389" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilezI83VZ"
+*** You are running in headless mode.
+1649623810914	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilezI83VZ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:61389/devtools/browser/0baa8490-9627-417d-be28-40dfc4fa18a2
+1649623811948	Marionette	INFO	Listening on port 61396
+1649623812059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 20284, MediaDecoderStateMachine #1] WARNING: 11e25daa0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1312 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 20284, MediaDecoderStateMachine #1] WARNING: 113266060 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20284, MediaDecoderStateMachine #1] WARNING: 113266060 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20284, MediaDecoderStateMachine #1] WARNING: 113266060 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20284, MediaDecoderStateMachine #1] WARNING: 113266060 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649623842829	Marionette	INFO	Stopped listening on port 61396
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1649623939675	geckodriver	INFO	Listening on 127.0.0.1:62045
+1649623940185	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "62046" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileA2hVv4"
+*** You are running in headless mode.
+1649623940467	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileA2hVv4/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62046/devtools/browser/c04b9314-5a61-40e6-b168-a7d5a06e4b27
+1649623941153	Marionette	INFO	Listening on port 62052
+1649623941226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 20329, MediaDecoderStateMachine #1] WARNING: 113c08c40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6082 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 20329, MediaDecoderStateMachine #1] WARNING: 110048510 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20329, MediaDecoderStateMachine #1] WARNING: 110048510 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20329, MediaDecoderStateMachine #1] WARNING: 110048510 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20329, MediaDecoderStateMachine #1] WARNING: 110048510 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649623976664	Marionette	INFO	Stopped listening on port 62052
+1649624072379	geckodriver	INFO	Listening on 127.0.0.1:62852
+1649624072897	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "62853" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileQlRt2F"
+*** You are running in headless mode.
+1649624073191	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileQlRt2F/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62853/devtools/browser/5bf66f8b-0c31-4f6f-9c54-125f4de9ad73
+1649624073835	Marionette	INFO	Listening on port 62862
+1649624073851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 20388, MediaDecoderStateMachine #1] WARNING: 11ddae060 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4434 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 20388, MediaDecoderStateMachine #1] WARNING: 10f8d5200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20388, MediaDecoderStateMachine #1] WARNING: 10f8d5200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20388, MediaDecoderStateMachine #1] WARNING: 10f8d5200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20388, MediaDecoderStateMachine #1] WARNING: 10f8d5200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649624113552	Marionette	INFO	Stopped listening on port 62862
+1649624149825	geckodriver	INFO	Listening on 127.0.0.1:63353
+1649624149831	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "63354" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofile57JY20"
+*** You are running in headless mode.
+1649624150099	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofile57JY20/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:63354/devtools/browser/e05ed538-eaf5-40f8-ae95-9dd58828ea08
+1649624150734	Marionette	INFO	Listening on port 63357
+1649624150780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 20435, MediaDecoderStateMachine #1] WARNING: 110a08f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 551 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 20435, MediaDecoderStateMachine #1] WARNING: 10ba98c40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20435, MediaDecoderStateMachine #1] WARNING: 10ba98c40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649624179381	Marionette	INFO	Stopped listening on port 63357
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649624526601	geckodriver	INFO	Listening on 127.0.0.1:65009
+1649624527115	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "65010" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilevHQLEr"
+*** You are running in headless mode.
+1649624527419	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilevHQLEr/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:65010/devtools/browser/1f31fb59-a307-4de1-bca4-1c80e780fef5
+1649624528040	Marionette	INFO	Listening on port 65015
+1649624528064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4855 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 20520, MediaDecoderStateMachine #1] WARNING: 10f5aa060 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20520, MediaDecoderStateMachine #1] WARNING: 10add8db0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20520, MediaDecoderStateMachine #1] WARNING: 10add8db0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649624555447	Marionette	INFO	Stopped listening on port 65015
+1649624950244	geckodriver	INFO	Listening on 127.0.0.1:50481
+1649624950766	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "50482" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilenQAlPW"
+*** You are running in headless mode.
+1649624951041	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilenQAlPW/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:50482/devtools/browser/b197df0d-3199-4899-bbae-7c35241ea6b9
+1649624951698	Marionette	INFO	Listening on port 50491
+1649624951711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 20579, MediaDecoderStateMachine #1] WARNING: 11dd0e1d0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 576 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 20579, MediaDecoderStateMachine #1] WARNING: 1124340c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20579, MediaDecoderStateMachine #1] WARNING: 1124340c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20579, MediaDecoderStateMachine #1] WARNING: 112437030 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20579, MediaDecoderStateMachine #1] WARNING: 112437030 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20579, MediaDecoderStateMachine #1] WARNING: 112435d80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20579, MediaDecoderStateMachine #1] WARNING: 112435d80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20579, MediaDecoderStateMachine #1] WARNING: 112435d80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20579, MediaDecoderStateMachine #1] WARNING: 112435d80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20579, MediaDecoderStateMachine #1] WARNING: 11dd0d930 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20579, MediaDecoderStateMachine #1] WARNING: 11dd0d930 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649625037848	Marionette	INFO	Stopped listening on port 50491
+1649625042527	geckodriver	INFO	Listening on 127.0.0.1:50968
+1649625042533	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "50969" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofile1lLnxi"
+*** You are running in headless mode.
+1649625042726	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofile1lLnxi/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:50969/devtools/browser/577cc957-5988-43a0-81d0-f79cad921d7e
+1649625043301	Marionette	INFO	Listening on port 50972
+1649625043375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4328 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 1187b35f0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6cdb0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6cdb0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6fbb0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6fbb0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10c561c10 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10c561c10 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6f1a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6f1a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10c5617c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10c5617c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 11986c3a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 11986c3a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 1187b3760 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 1187b3760 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 11986cad0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 11986cad0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 118a51ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 118a51ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6d4e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6d4e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6f8d0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6f8d0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6d090 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6d090 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6ebe0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6ebe0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6f1a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6f1a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6d200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6d200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6def0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6def0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6f8d0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20652, MediaDecoderStateMachine #1] WARNING: 10be6f8d0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649625174486	Marionette	INFO	Stopped listening on port 50972
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649625236564	geckodriver	INFO	Listening on 127.0.0.1:51917
+1649625236571	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "51918" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilevLr20x"
+*** You are running in headless mode.
+1649625236833	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilevLr20x/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:51918/devtools/browser/be95286c-3052-4a4d-8dcc-c54cb2daea8a
+1649625237537	Marionette	INFO	Listening on port 51921
+1649625237626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3128 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 20841, MediaDecoderStateMachine #1] WARNING: 118c8f760 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20841, MediaDecoderStateMachine #1] WARNING: 10ee5c0c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20841, MediaDecoderStateMachine #1] WARNING: 10ee5c0c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20841, MediaDecoderStateMachine #1] WARNING: 10ee5e060 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20841, MediaDecoderStateMachine #1] WARNING: 10ee5e060 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20841, MediaDecoderStateMachine #1] WARNING: 10ee5fd20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20841, MediaDecoderStateMachine #1] WARNING: 10ee5fd20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20841, MediaDecoderStateMachine #1] WARNING: 10ee5f310 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20841, MediaDecoderStateMachine #1] WARNING: 10ee5f310 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20841, MediaDecoderStateMachine #1] WARNING: 10ee5f310 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20841, MediaDecoderStateMachine #1] WARNING: 10ee5f310 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20841, MediaDecoderStateMachine #1] WARNING: 10ee5f310 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20841, MediaDecoderStateMachine #1] WARNING: 10ee5f310 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20841, MediaDecoderStateMachine #1] WARNING: 1292f24b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 20841, MediaDecoderStateMachine #1] WARNING: 1292f24b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649625317854	Marionette	INFO	Stopped listening on port 51921
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649625762994	geckodriver	INFO	Listening on 127.0.0.1:54008
+1649625763514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54009" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofiledOMgvx"
+*** You are running in headless mode.
+1649625763798	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofiledOMgvx/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54009/devtools/browser/d2439f97-4dfd-4a7e-abe3-fe5b87395f74
+1649625764461	Marionette	INFO	Listening on port 54015
+1649625764561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 21012, MediaDecoderStateMachine #1] WARNING: 11b3ca060 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2310 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 21012, MediaDecoderStateMachine #1] WARNING: 10df6cc40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21012, MediaDecoderStateMachine #1] WARNING: 10df6cc40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21012, MediaDecoderStateMachine #1] WARNING: 10e9e3760 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21012, MediaDecoderStateMachine #1] WARNING: 10e9e3760 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649625780968	Marionette	INFO	Stopped listening on port 54015
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1649625815769	geckodriver	INFO	Listening on 127.0.0.1:54334
+1649625815775	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54335" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilecTeczH"
+*** You are running in headless mode.
+1649625815972	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilecTeczH/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54335/devtools/browser/9cc24112-e77f-42ab-a240-8597553bf1dd
+1649625816547	Marionette	INFO	Listening on port 54338
+1649625816610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 21041, MediaDecoderStateMachine #1] WARNING: 118dc94e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5502 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 21041, MediaDecoderStateMachine #1] WARNING: 10fedba40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21041, MediaDecoderStateMachine #1] WARNING: 10fedba40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649625882499	Marionette	INFO	Stopped listening on port 54338
+1649625885702	geckodriver	INFO	Listening on 127.0.0.1:54734
+1649625885709	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54735" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileChEKnI"
+*** You are running in headless mode.
+1649625885903	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileChEKnI/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54735/devtools/browser/80f045a1-a479-434b-83f1-857811065dab
+1649625886489	Marionette	INFO	Listening on port 54738
+1649625886548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 21070, MediaDecoderStateMachine #1] WARNING: 10e4ab760 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4522 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 21070, MediaDecoderStateMachine #1] WARNING: 10c6a1200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21070, MediaDecoderStateMachine #1] WARNING: 10c6a1200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649626270103	geckodriver	INFO	Listening on 127.0.0.1:56430
+1649626270111	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56431" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileS9jDmh"
+*** You are running in headless mode.
+1649626270394	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileS9jDmh/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56431/devtools/browser/860a841c-b239-4935-ac7c-440f634c2ec1
+1649626271058	Marionette	INFO	Listening on port 56434
+1649626271158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 21138, MediaDecoderStateMachine #1] WARNING: 11bfe94e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4188 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 21138, MediaDecoderStateMachine #1] WARNING: 11065dc10 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21138, MediaDecoderStateMachine #1] WARNING: 11065dc10 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649626283442	Marionette	INFO	Stopped listening on port 56434
+1649626390685	geckodriver	INFO	Listening on 127.0.0.1:57037
+1649626390692	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "57038" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilenFh7AR"
+*** You are running in headless mode.
+1649626390926	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilenFh7AR/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57038/devtools/browser/77ffbd21-7ad1-4739-82da-594417561bd5
+1649626391508	Marionette	INFO	Listening on port 57041
+1649626391531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 21164, MediaDecoderStateMachine #1] WARNING: 1101c1370 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 567 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 21164, MediaDecoderStateMachine #1] WARNING: 1101c1370 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21164, MediaDecoderStateMachine #1] WARNING: 1101c1370 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21164, MediaDecoderStateMachine #1] WARNING: 10b815c10 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21164, MediaDecoderStateMachine #1] WARNING: 10b815c10 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21164, MediaDecoderStateMachine #1] WARNING: 10b8171a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21164, MediaDecoderStateMachine #1] WARNING: 10b8171a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21164, MediaDecoderStateMachine #1] WARNING: 1101c1aa0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21164, MediaDecoderStateMachine #1] WARNING: 1101c1aa0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21164, MediaDecoderStateMachine #1] WARNING: 110771aa0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21164, MediaDecoderStateMachine #1] WARNING: 110771aa0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649626417661	Marionette	INFO	Stopped listening on port 57041
+1649626453222	geckodriver	INFO	Listening on 127.0.0.1:57396
+1649626453228	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "57397" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileQqcNT2"
+*** You are running in headless mode.
+1649626453420	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileQqcNT2/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57397/devtools/browser/2914329a-042a-4be5-aa9e-5ec518210a63
+1649626453969	Marionette	INFO	Listening on port 57400
+1649626454070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 21197, MediaDecoderStateMachine #1] WARNING: 1123e1370 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 830 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 21197, MediaDecoderStateMachine #1] WARNING: 112950f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21197, MediaDecoderStateMachine #1] WARNING: 112950f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21197, MediaDecoderStateMachine #1] WARNING: 112950f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21197, MediaDecoderStateMachine #1] WARNING: 112950f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649626485664	Marionette	INFO	Stopped listening on port 57400
+1649626497133	geckodriver	INFO	Listening on 127.0.0.1:57675
+1649626497139	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "57676" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilebdddbN"
+*** You are running in headless mode.
+1649626497338	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilebdddbN/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57676/devtools/browser/e4abed1a-5415-4f98-a69b-4dfd4c2d030b
+1649626497871	Marionette	INFO	Listening on port 57679
+1649626497976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 21233, MediaDecoderStateMachine #1] WARNING: 11075f480 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7470 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 21233, MediaDecoderStateMachine #1] WARNING: 11237ea70 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21233, MediaDecoderStateMachine #1] WARNING: 11237ea70 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21233, MediaDecoderStateMachine #1] WARNING: 11237ea70 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21233, MediaDecoderStateMachine #1] WARNING: 11237ea70 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21233, MediaDecoderStateMachine #1] WARNING: 11237ea70 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21233, MediaDecoderStateMachine #1] WARNING: 11237ea70 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649626522611	Marionette	INFO	Stopped listening on port 57679
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649626594617	geckodriver	INFO	Listening on 127.0.0.1:58179
+1649626594623	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "58180" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileKRic6p"
+*** You are running in headless mode.
+1649626594811	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileKRic6p/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:58180/devtools/browser/663194cf-5bb0-42a5-b13b-3e8dba84a454
+1649626595416	Marionette	INFO	Listening on port 58183
+1649626595461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 21286, MediaDecoderStateMachine #1] WARNING: 10f8e07f0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21286, MediaDecoderStateMachine #1] WARNING: 10f8e07f0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649626633560	Marionette	INFO	Stopped listening on port 58183
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649626641247	geckodriver	INFO	Listening on 127.0.0.1:58465
+1649626641252	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "58466" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileQQMl9C"
+*** You are running in headless mode.
+1649626641445	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileQQMl9C/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:58466/devtools/browser/80e1717d-096d-4689-8128-728185b06fa5
+1649626642003	Marionette	INFO	Listening on port 58469
+1649626642094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 21328, MediaDecoderStateMachine #1] WARNING: 1143d54e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3120 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 21328, MediaDecoderStateMachine #1] WARNING: 113cc38d0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21328, MediaDecoderStateMachine #1] WARNING: 113cc38d0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21328, MediaDecoderStateMachine #1] WARNING: 1124aed50 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+[Child 21328, MediaDecoderStateMachine #1] WARNING: 1124aed50 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:330
+1649626667848	Marionette	INFO	Stopped listening on port 58469
+1649723508586	geckodriver	INFO	Listening on 127.0.0.1:52478
+1649723509102	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "52479" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileahhwZl"
+*** You are running in headless mode.
+1649723509604	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileahhwZl/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:52479/devtools/browser/3f9103f3-f8ea-4c3d-834d-08e1a67309d6
+1649723510283	Marionette	INFO	Listening on port 52486
+1649723510375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649723511389	Marionette	INFO	Stopped listening on port 52486
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649723545710	geckodriver	INFO	Listening on 127.0.0.1:52560
+1649723545716	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "52561" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofile0a9CFM"
+*** You are running in headless mode.
+1649723545870	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofile0a9CFM/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:52561/devtools/browser/57f9f297-eb00-4e32-8704-c3a8278ba866
+1649723546427	Marionette	INFO	Listening on port 52566
+1649723546452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649723547464	Marionette	INFO	Stopped listening on port 52566
+1649787050307	geckodriver	INFO	Listening on 127.0.0.1:53081
+1649787050822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53082" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilexejmV4"
+*** You are running in headless mode.
+1649787051315	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilexejmV4/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53082/devtools/browser/ee6b6355-b4a1-4bb2-8be0-e910d8bd7e82
+1649787051982	Marionette	INFO	Listening on port 53087
+1649787052087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649787053104	Marionette	INFO	Stopped listening on port 53087
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649787064968	geckodriver	INFO	Listening on 127.0.0.1:53145
+1649787064975	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53146" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileFoDrAI"
+*** You are running in headless mode.
+1649787065136	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileFoDrAI/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53146/devtools/browser/7ca4b538-1945-4671-9ae8-f6de77f56a7c
+1649787065682	Marionette	INFO	Listening on port 53149
+1649787065712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649787066724	Marionette	INFO	Stopped listening on port 53149
+1649787681787	geckodriver	INFO	Listening on 127.0.0.1:53266
+1649787682300	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53267" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileTwjKqA"
+*** You are running in headless mode.
+1649787682584	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileTwjKqA/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53267/devtools/browser/2dc24e75-0e35-4e7a-87e7-ae915a61ee2d
+1649787683223	Marionette	INFO	Listening on port 53272
+1649787683253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649787684274	Marionette	INFO	Stopped listening on port 53272
+1649787692658	geckodriver	INFO	Listening on 127.0.0.1:53333
+1649787692666	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53334" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofile6ISUzj"
+*** You are running in headless mode.
+1649787692860	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofile6ISUzj/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53334/devtools/browser/fc11304d-105f-4765-9ecf-4f4cf13eaf4b
+1649787693415	Marionette	INFO	Listening on port 53337
+1649787693507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649787694520	Marionette	INFO	Stopped listening on port 53337
+1649787773000	geckodriver	INFO	Listening on 127.0.0.1:53411
+1649787773007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53412" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileG2Pwha"
+*** You are running in headless mode.
+1649787773164	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileG2Pwha/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53412/devtools/browser/88efab36-4341-4a09-bf27-2fd736a96266
+1649787773757	Marionette	INFO	Listening on port 53415
+1649787773850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649788441607	geckodriver	INFO	Listening on 127.0.0.1:53504
+1649788442127	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53505" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileKYGB4u"
+*** You are running in headless mode.
+1649788442432	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileKYGB4u/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53505/devtools/browser/dbdb32a9-ba73-40ec-bdac-867a72091064
+1649788443072	Marionette	INFO	Listening on port 53510
+1649788443174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649788444191	Marionette	INFO	Stopped listening on port 53510
+1649788461627	geckodriver	INFO	Listening on 127.0.0.1:53572
+1649788461633	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53573" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileullHnC"
+*** You are running in headless mode.
+1649788461792	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileullHnC/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53573/devtools/browser/ba13cbed-74b9-42c3-9450-c57429e66854
+1649788462352	Marionette	INFO	Listening on port 53576
+1649788462361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649788463375	Marionette	INFO	Stopped listening on port 53576
+1649788482070	geckodriver	INFO	Listening on 127.0.0.1:53619
+1649788482076	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53620" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileviVoE4"
+*** You are running in headless mode.
+1649788482288	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileviVoE4/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53620/devtools/browser/2f14e094-ab50-4f5d-a485-884b9d8e7699
+1649788482816	Marionette	INFO	Listening on port 53623
+1649788482918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649788483934	Marionette	INFO	Stopped listening on port 53623
+1649790373348	geckodriver	INFO	Listening on 127.0.0.1:53787
+1649790373862	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53788" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilekWtAMl"
+*** You are running in headless mode.
+1649790374152	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilekWtAMl/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53788/devtools/browser/6f7c8218-ff5b-4c36-bb7d-8aee80e03e94
+1649790374864	Marionette	INFO	Listening on port 53793
+1649790374915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649790374927	Marionette	INFO	Stopped listening on port 53793
+1649790388351	geckodriver	INFO	Listening on 127.0.0.1:53824
+1649790388357	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53825" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilevabixL"
+*** You are running in headless mode.
+1649790388505	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilevabixL/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53825/devtools/browser/f980dd9d-6d09-4176-8b14-2bc52ca635ef
+1649790389057	Marionette	INFO	Listening on port 53828
+1649790389098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649790389108	Marionette	INFO	Stopped listening on port 53828
+1649790450910	geckodriver	INFO	Listening on 127.0.0.1:53869
+1649790450917	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53870" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileNlBPwb"
+*** You are running in headless mode.
+1649790451128	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileNlBPwb/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53870/devtools/browser/b0638ba4-8df9-4b1e-94f7-b82862b0fa66
+1649790451706	Marionette	INFO	Listening on port 53873
+1649790451759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649790451769	Marionette	INFO	Stopped listening on port 53873
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 46: RemoteSettingsWorkerError: Remote Settings has shut down.
+1649790715730	geckodriver	INFO	Listening on 127.0.0.1:53931
+1649790716248	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53932" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilepBHzu3"
+*** You are running in headless mode.
+1649790716517	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilepBHzu3/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53932/devtools/browser/c21745c4-4bfa-4b9c-95c6-e7905ec4d93a
+1649790717167	Marionette	INFO	Listening on port 53937
+1649790717201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649790717211	Marionette	INFO	Stopped listening on port 53937
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 46: RemoteSettingsWorkerError: Remote Settings has shut down.
+1649790782944	geckodriver	INFO	Listening on 127.0.0.1:53973
+1649790782952	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "53974" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileS0NuWo"
+*** You are running in headless mode.
+1649790783162	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileS0NuWo/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53974/devtools/browser/621e140e-4483-4b5b-8998-4294649c5820
+1649790783811	Marionette	INFO	Listening on port 53977
+1649790783898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649790783908	Marionette	INFO	Stopped listening on port 53977
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 143: Error: Shutdown, aborting read-only worker requests.
+1649791818055	geckodriver	INFO	Listening on 127.0.0.1:54026
+1649791818062	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54027" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileBYC5US"
+*** You are running in headless mode.
+1649791818294	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileBYC5US/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54027/devtools/browser/a841fd62-cdfc-4a25-bdf0-484200c56ac9
+1649791818926	Marionette	INFO	Listening on port 54030
+1649791819012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649791819024	Marionette	INFO	Stopped listening on port 54030
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 143: Error: Shutdown, aborting read-only worker requests.
+1649792601699	geckodriver	INFO	Listening on 127.0.0.1:54131
+1649792602211	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54132" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilegQ8wro"
+*** You are running in headless mode.
+1649792602469	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilegQ8wro/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54132/devtools/browser/612972ad-0de5-487b-a50e-f74fbb7a1358
+1649792603094	Marionette	INFO	Listening on port 54137
+1649792603163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649792603175	Marionette	INFO	Stopped listening on port 54137
+1649792750124	geckodriver	INFO	Listening on 127.0.0.1:54659
+1649792750643	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54660" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileyoMzZA"
+*** You are running in headless mode.
+1649792750958	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileyoMzZA/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54660/devtools/browser/32a1b9bb-795f-499a-80a0-e038160fc4be
+1649792751623	Marionette	INFO	Listening on port 54668
+1649792751696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649792777132	geckodriver	INFO	Listening on 127.0.0.1:54808
+1649792777137	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "54809" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileJL23d5"
+*** You are running in headless mode.
+1649792777386	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileJL23d5/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54809/devtools/browser/699677a0-be39-420a-af98-3d6f479f35e5
+1649792778048	Marionette	INFO	Listening on port 54812
+1649792778088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649792778104	Marionette	INFO	Stopped listening on port 54812
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 143: Error: Shutdown, aborting read-only worker requests.
+1649792910824	geckodriver	INFO	Listening on 127.0.0.1:55174
+1649792911359	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55175" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileNSMfzG"
+*** You are running in headless mode.
+1649792911646	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileNSMfzG/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:55175/devtools/browser/ef2d2463-1874-47b7-bccd-c2fe2e7c9615
+1649792912414	Marionette	INFO	Listening on port 55182
+1649792912523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649792912539	Marionette	INFO	Stopped listening on port 55182
+JavaScript error: resource://services-settings/Utils.jsm, line 154: TypeError: NetworkError: Network request failed
+1649792927629	geckodriver	INFO	Listening on 127.0.0.1:55249
+1649792928152	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55250" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileONnXEc"
+*** You are running in headless mode.
+1649792928477	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileONnXEc/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:55250/devtools/browser/88ef1b8a-7b81-477d-892e-709963bd1b0a
+1649792929120	Marionette	INFO	Listening on port 55255
+1649792929211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649792929223	Marionette	INFO	Stopped listening on port 55255
+console.error: services.settings: 
+  main/quicksuggest Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1649792947083	geckodriver	INFO	Listening on 127.0.0.1:55329
+1649792947594	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55330" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileO5Dn6M"
+*** You are running in headless mode.
+1649792947872	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileO5Dn6M/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:55330/devtools/browser/8dfff7d1-ff84-4384-bade-f864d4afb1b1
+1649792948558	Marionette	INFO	Listening on port 55339
+1649792948635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649792948647	Marionette	INFO	Stopped listening on port 55339
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 46: RemoteSettingsWorkerError: Remote Settings has shut down.
+1649793145591	geckodriver	INFO	Listening on 127.0.0.1:55546
+1649793146102	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55547" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileSGAqnR"
+*** You are running in headless mode.
+1649793146542	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileSGAqnR/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:55547/devtools/browser/20c9c53e-cf49-4a52-afe6-469f9c9c0cfa
+1649793147261	Marionette	INFO	Listening on port 55553
+1649793147364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649793147377	Marionette	INFO	Stopped listening on port 55553
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 143: Error: Shutdown, aborting read-only worker requests.
+1649793277787	geckodriver	INFO	Listening on 127.0.0.1:55729
+1649793278310	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55730" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileSoJFzc"
+*** You are running in headless mode.
+1649793278617	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileSoJFzc/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:55730/devtools/browser/52a62c97-ebd3-46e0-9229-0037508e99ab
+1649793279336	Marionette	INFO	Listening on port 55735
+1649793279361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649793279375	Marionette	INFO	Stopped listening on port 55735
+JavaScript error: resource://services-settings/Utils.jsm, line 154: TypeError: NetworkError: Network request failed
+1649793413058	geckodriver	INFO	Listening on 127.0.0.1:55878
+1649793413582	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55879" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileZarLzF"
+*** You are running in headless mode.
+1649793413872	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileZarLzF/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:55879/devtools/browser/3fcc02d0-c868-4714-8744-9dc217d68a56
+1649793414506	Marionette	INFO	Listening on port 55884
+1649793414539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649793414550	Marionette	INFO	Stopped listening on port 55884
+console.error: services.settings: 
+  main/quicksuggest Signature failed  Error: Shutdown, aborting read-only worker requests.
+console.error: services.settings: 
+  main/query-stripping Signature failed  Error: Shutdown, aborting read-only worker requests.
+1649793427341	geckodriver	INFO	Listening on 127.0.0.1:55923
+1649793427346	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "55924" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilem4xPIO"
+*** You are running in headless mode.
+1649793427618	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilem4xPIO/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:55924/devtools/browser/9c3109fa-3c27-4497-8af5-500bdf225add
+1649793428322	Marionette	INFO	Listening on port 55927
+1649793428382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649793428397	Marionette	INFO	Stopped listening on port 55927
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 46: RemoteSettingsWorkerError: Remote Settings has shut down.
+1649793881465	geckodriver	INFO	Listening on 127.0.0.1:56208
+1649793881986	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56209" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileAP7cSg"
+*** You are running in headless mode.
+1649793882270	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileAP7cSg/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56209/devtools/browser/fe1e0530-0858-46de-80cb-fc87ef8e8542
+1649793882943	Marionette	INFO	Listening on port 56216
+1649793883035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649793883049	Marionette	INFO	Stopped listening on port 56216
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 143: Error: Shutdown, aborting read-only worker requests.
+1649793906791	geckodriver	INFO	Listening on 127.0.0.1:56264
+1649793906798	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56265" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilelnEk1t"
+*** You are running in headless mode.
+1649793907039	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilelnEk1t/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56265/devtools/browser/c5e0a7a3-47a0-4619-bc75-6fad5dc50aee
+1649793907666	Marionette	INFO	Listening on port 56268
+1649793907749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649793907762	Marionette	INFO	Stopped listening on port 56268
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 143: Error: Shutdown, aborting read-only worker requests.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649794691257	geckodriver	INFO	Listening on 127.0.0.1:56443
+1649794691768	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56444" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileHCSiMT"
+*** You are running in headless mode.
+1649794692034	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileHCSiMT/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56444/devtools/browser/1d3f2ae4-ea66-47e1-81ba-dae8530993f0
+1649794692674	Marionette	INFO	Listening on port 56450
+1649794692717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649794692727	Marionette	INFO	Stopped listening on port 56450
+1649794699150	geckodriver	INFO	Listening on 127.0.0.1:56477
+1649794699157	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56478" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileMVA4rS"
+*** You are running in headless mode.
+1649794699314	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileMVA4rS/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56478/devtools/browser/a1f95cf2-d3f3-46c1-82db-4566b4a71d20
+1649794699906	Marionette	INFO	Listening on port 56481
+1649794699997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649794700011	Marionette	INFO	Stopped listening on port 56481
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 143: Error: Shutdown, aborting read-only worker requests.
+1649794706338	geckodriver	INFO	Listening on 127.0.0.1:56528
+1649794706346	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56529" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileJ3vCTw"
+*** You are running in headless mode.
+1649794706525	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileJ3vCTw/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56529/devtools/browser/96a0a517-1861-44d3-a6a7-b8871d17f347
+1649794707085	Marionette	INFO	Listening on port 56532
+1649794707182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649794875648	geckodriver	INFO	Listening on 127.0.0.1:56616
+1649794876177	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56617" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileHbvAa6"
+*** You are running in headless mode.
+1649794876464	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileHbvAa6/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56617/devtools/browser/312fda9d-6d30-4f27-87c1-971621d7c7ea
+1649794877101	Marionette	INFO	Listening on port 56622
+1649794877124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649794943975	geckodriver	INFO	Listening on 127.0.0.1:56692
+1649794943985	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56693" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofile3yeyjM"
+*** You are running in headless mode.
+1649794944188	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofile3yeyjM/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56693/devtools/browser/3d3cb8dd-a941-44e9-abbc-2073279610da
+1649794944835	Marionette	INFO	Listening on port 56696
+1649794944923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649795087561	geckodriver	INFO	Listening on 127.0.0.1:56774
+1649795087569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56775" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilealkQrR"
+*** You are running in headless mode.
+1649795087801	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofilealkQrR/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56775/devtools/browser/d1706376-74fc-454d-931d-b49ed5063c0b
+1649795088470	Marionette	INFO	Listening on port 56778
+1649795088511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649795088524	Marionette	INFO	Stopped listening on port 56778
+console.error: services.settings: 
+  main/quicksuggest Signature failed  TypeError: NetworkError: Network request failed
+1649795092686	geckodriver	INFO	Listening on 127.0.0.1:56805
+1649795092692	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56806" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileOBa78s"
+*** You are running in headless mode.
+1649795092848	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileOBa78s/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56806/devtools/browser/e1657a09-e67b-4a83-ba85-584c78e0418f
+1649795093403	Marionette	INFO	Listening on port 56809
+1649795093431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649795093443	Marionette	INFO	Stopped listening on port 56809
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/quicksuggest Signature failed  TypeError: NetworkError: Network request failed
+1649795100433	geckodriver	INFO	Listening on 127.0.0.1:56835
+1649795100439	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56836" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileLlghK5"
+*** You are running in headless mode.
+1649795100605	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileLlghK5/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56836/devtools/browser/2a3135bb-09ee-4fd6-bdaf-db4183b60003
+1649795101200	Marionette	INFO	Listening on port 56839
+1649795101278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649795101290	Marionette	INFO	Stopped listening on port 56839
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 143: Error: Shutdown, aborting read-only worker requests.
+1649795109319	geckodriver	INFO	Listening on 127.0.0.1:56874
+1649795109326	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "56875" "-foreground" "-no-remote" "-profile" "/var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileEtHXT7"
+*** You are running in headless mode.
+1649795109527	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5b/xv53frzd149bh7w8x9cqwvt80000gn/T/rust_mozprofileEtHXT7/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56875/devtools/browser/a5ef7af4-3fd1-4f87-8473-3729c6b26473
+1649795110117	Marionette	INFO	Listening on port 56878
+1649795110159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649795110169	Marionette	INFO	Stopped listening on port 56878
